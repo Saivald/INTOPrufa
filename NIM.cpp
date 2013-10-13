@@ -29,11 +29,13 @@ void spila( );
 int hrugufjoldi;
 
 //Hér byrjar aðalforritið:
+
 int main( )
 {
+	cout << "hallo Saivald her virkar thetta?";
 	int val;
 	do
-	{
+
 		cout << endl << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
