@@ -34,6 +34,7 @@ int main( )
 {
 	cout << "hallo Saivald her virkar thetta?";
 	cout<<"Stefania breytti thessu";
+	cout<<"Filippu finnst şetta geğveikt sniğugur leikur";
 	int val;
 	do
 
