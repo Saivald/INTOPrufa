@@ -33,6 +33,7 @@ int hrugufjoldi;
 int main( )
 {
 	cout << "hallo Saivald her virkar thetta?";
+	cout<<"Stefania breytti thessu";
 	int val;
 	do
 
