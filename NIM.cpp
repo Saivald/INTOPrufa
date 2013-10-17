@@ -108,7 +108,7 @@ void hjalp( )
 	cout << "hrugunni en their mega aldrei taka ur fleiri en " << endl;
 	cout << "einni hrugu i einu.  Sa sem tekur sidustu eldspytuna " << endl;
 	cout << "ur sidustu hrugunni vinnur.  Gangi ykkur vel! " << endl << endl;
-	cout << "Sladu a einhvern lykil... " << endl;
+	cout << "Sladu a einhvern lykil...Hvern sem er... " << endl;
 	getchar( );
 }
 
